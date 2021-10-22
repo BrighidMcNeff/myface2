@@ -1,0 +1,28 @@
+.postGallery{
+  margin: 40px;
+}
+
+
+// styling for individual posts
+
+.post{
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+  background-color: #440D0F;
+  padding: 35px;
+  border-radius: 15px;
+  color: #E8F1F2;
+  margin: 20px;
+}
+
+.posterProfile img{
+  width: 100px;
+  border-radius: 50px;
+  border: 5px solid #9090A2;
+}
+
+.postContent img{
+  align-self: center;
+  width: 500px;
+}
